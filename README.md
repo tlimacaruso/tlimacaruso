@@ -1,4 +1,4 @@
-🌸 Hi, I’m Teresa Caruso and I’m currently at the beginning of a code learning journey to become a Web Developer
+🌸 Hi, I’m Teresa and I’m at the beginning of a code learning journey to become a Web Developer
 <br>
 👩🏻‍💻 I’m currently learning Front-End Development tools from a certified school and I am teaching myself UX/UI Design
 <br>
